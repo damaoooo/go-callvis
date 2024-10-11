@@ -4,6 +4,7 @@ go 1.19
 
 require (
 	github.com/goccy/go-graphviz v0.1.1
+	github.com/mattn/go-sqlite3 v1.14.24
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	golang.org/x/tools v0.8.0
 )
